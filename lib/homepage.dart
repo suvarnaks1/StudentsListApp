@@ -27,22 +27,22 @@ class HomePage extends StatelessWidget {
       'name': 'Shweta ',
       'age': 24,
       'roleNumber': 'A123',
-      'schoolName': 'ABC School',
-      'place': 'City A',
+      'schoolName': 'AFF School',
+      'place': 'City AR',
       'subject':'Malayalam'
     }, {
       'name': 'Gopika ',
       'age': 25,
       'roleNumber': 'A123',
-      'schoolName': 'ABC School',
-      'place': 'City A',
+      'schoolName': 'Edapt',
+      'place': 'City AB',
       'subject':'English'
     }, {
       'name': 'Hari',
       'age': 20,
       'roleNumber': 'A123',
-      'schoolName': 'ABC School',
-      'place': 'City A',
+      'schoolName': 'AI School',
+      'place': 'City CD',
       'subject':'Biology'
     },
    
